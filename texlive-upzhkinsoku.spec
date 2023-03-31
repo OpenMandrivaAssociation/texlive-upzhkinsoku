@@ -1,6 +1,6 @@
 Name:		texlive-upzhkinsoku
 Version:	47354
-Release:	1
+Release:	2
 Summary:	Supplementary Chinese kinsoku for Unicode *pTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/upzhkinsoku
