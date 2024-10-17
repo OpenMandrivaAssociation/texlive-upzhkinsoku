@@ -3,7 +3,7 @@ Version:	47354
 Release:	2
 Summary:	Supplementary Chinese kinsoku for Unicode *pTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/upzhkinsoku
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/upzhkinsoku
 License:	knuth
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/upzhkinsoku.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/upzhkinsoku.doc.r%{version}.tar.xz
